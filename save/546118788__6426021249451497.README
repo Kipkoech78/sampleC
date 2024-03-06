@@ -1,0 +1,9 @@
+The following algorithms were created
+
+schedule_fcfs.c
+schedule_sjf.c
+schedule_rr.c
+schedule_priority.c
+schedule_priority_rr.c
+
+Can be run using makefile
